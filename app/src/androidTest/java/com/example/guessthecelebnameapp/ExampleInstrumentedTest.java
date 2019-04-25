@@ -1,4 +1,4 @@
-package com.example.guessthefruitnameapp;
+package com.example.guessthecelebnameapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
